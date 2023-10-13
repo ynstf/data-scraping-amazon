@@ -1,4 +1,4 @@
-# data-scraping-amazon
+# Data Scraping Amazon
  Python script that scrapes data from Amazon product pages and saves the information into a CSV file. The script uses the BeautifulSoup library for web scraping and the os module for file operations and extracts product titles, prices, page URLs, and image URLs.
 
 Here's a brief overview of what the script does:
